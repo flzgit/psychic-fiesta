@@ -1,2 +1,0 @@
-# psychic-fiesta
-hello world
